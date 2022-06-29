@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on my own as a freelancer
+- 🔭 I’m currently working as a Backend Enginer
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about anything
 
