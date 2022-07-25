@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working as a Backend Enginer
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working as a FrontEnd Enginer
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about anything
 
 [![wakatime](https://wakatime.com/badge/user/51b5e796-19c5-4b21-aa78-259cb9aab838.svg?style=flat-square)](https://wakatime.com/@51b5e796-19c5-4b21-aa78-259cb9aab838?style=flat-square)
